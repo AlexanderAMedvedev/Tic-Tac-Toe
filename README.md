@@ -10,6 +10,7 @@
   
 ## Технологии
 - вёрстка кодом с Auto Layout
+- UITextField
 - UICollectionView
 - паттерн делегат
 - UIAlertController
